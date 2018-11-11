@@ -10,7 +10,7 @@
 .app .standardSidebarView-3F1I7i {
     background-color: rgba(0,0,0,0.3);
 }
-/*https://hdqwalls.com/download/4k-zero-two-darling-in-the-franxx-w4-1920x1080.jpg*/
+/*https://i.imgur.com/XTmCAmj.png*/
 /** remove grey backgrounds **/
 .theme-dark .friends-table, .theme-dark .theme-dark .messages-wrapper, .theme-dark .chat, .channels-Ie2l6A, .guilds-wrapper, .container-2lgZY8, .theme-dark .layer-3QrUeG, .theme-dark .typing-2GQL18,
 .theme-dark .members-1998pB, .theme-dark .chat>.content, .theme-dark .title-3qD0b-, .container-PNkimc, .channels-Ie2l6A, .theme-dark .chat form, .container-2Thooq, .theme-dark .headerBar-UHpsPw,
@@ -224,10 +224,10 @@ background: rgb(47, 49, 54);
 
 /*Border and Text of users on servers*/
 .theme-dark .membersGroup-v9BXpm {
-    color: rgba(237, 253, 255, 0);
+    color: rgba(99, 142, 192, 1);
     border-radius: 5px;
     border: 01px solid #fff;
-    border-color: rgba(237, 253, 255, 0);
+    border-color: rgba(99, 142, 192, 1);
     text-align: center;
     padding:08px;
 }
