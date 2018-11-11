@@ -224,10 +224,10 @@ background: rgb(47, 49, 54);
 
 /*Border and Text of users on servers*/
 .theme-dark .membersGroup-v9BXpm {
-    color: rgba(237,253,255,1);
+    color: rgba(237, 253, 255, 0);
     border-radius: 5px;
     border: 01px solid #fff;
-    border-color: rgba(237,253,255,1);
+    border-color: rgba(237, 253, 255, 0);
     text-align: center;
     padding:08px;
 }
