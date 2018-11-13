@@ -425,7 +425,7 @@ background: rgb(47, 49, 54);
 
 /* Emoji page */
 .theme-dark .bda-dark .emoji-picker, .bda-dark .emojiPicker-3m1S-j {
-    background-color: transparent;
+    background-color: rgba(0,0,0,0.4);
     border-radius: 15px !important;
     border-color: #123; !important;
 }
@@ -436,7 +436,7 @@ background: rgb(47, 49, 54);
     border: 1px solid #123;
 }
 .theme-dark .emojiPicker-3m1S-j .category-2U57w6 {
-    color: #3a71c1;
+    color: #bebebf;
 }
 .theme-dark .emojiPicker-3m1S-j .stickyHeader-1SS0JU {
     background: rgba(0,0,0,0.3)
