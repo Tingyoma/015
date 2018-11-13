@@ -68,7 +68,7 @@
 }
 /** optional fun **/
 img.emoji.jumboable{margin:0px !important;}/**fix emoji spacing for 2x2 emotes**/
-img.emoji:not(.jumboable){height:32px !important;width:auto !important;}/**never resize emoji**/
+img.emoji:not(.jumboable){height:16px !important;width:auto !important;}/**never resize emoji**/
 .reaction img.emoji{height:16px !important;}/**nvm actually do resize reactions**/
 .emojiPicker-3m1S-j{height:500px;}/** larger emojipicker part 1**/
 .emojiPicker-3m1S-j .scroller-3vODG7{height:400px !important;}/** larger emojipicker part 2**/
@@ -338,7 +338,7 @@ background: rgb(47, 49, 54);
 
 /* Divider of Chat */
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) div, .theme-dark .divider-3gKybi span {
-    background: #123;
+    background: #0b0f17;
 }
 .theme-dark .attachButtonDivider-3Glu60 {
     background-color: #123;
@@ -1235,4 +1235,10 @@ css-editor #bd-customcss-attach-controls button {
 /* extra fixes */
 .theme-dark .tileWrapper-2khh-w {
     background-color: rgba(17, 34, 51, 0.6);
+}
+.theme-dark .summaryInfo-2QFKUg {
+	color: #3a71c1;
+}
+.theme-dark .paymentText-2vaF7U {
+    color: #3a71c1;
 }
