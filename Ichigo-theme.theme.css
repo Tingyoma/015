@@ -1242,3 +1242,33 @@ css-editor #bd-customcss-attach-controls button {
 .theme-dark .paymentText-2vaF7U {
     color: #3a71c1;
 }
+.theme-dark .pageIndicator-1gAbyA {
+    color: #3a71c1;
+}
+.theme-dark .pageButtonNext-V2kUq0, .theme-dark .pageButtonPrev-1Y-47D {
+	color: #3a71c1;
+}
+.subText-V8PTt8 {
+    color: #3a71c1;
+}
+.theme-dark .itemDefault-3Jdr52, .theme-dark .itemHover-EnbcjT {
+    color: #3a71c1;
+}
+.theme-dark .header-2RyJ0Y {
+    color: #fff;
+}
+.theme-dark #bd-settings-sidebar .ui-tab-bar-header {
+    color: #fff;
+}
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item {
+    color: #3a71c1;
+}
+.nameDefaultText-24KCy5, .nameDefaultVoice-3WUH7s, .nameLockedText-3pqQcL, .nameLockedVoice-26MhB1 {
+    color: #3a71c1;
+}
+.iconCollapsed-3hFp_8, .iconDefault-3Gr8d2, .nameCollapsed-34uFWo, .nameDefault-2DI02H {
+    color: #3a71c1;
+}
+.iconCollapsed-3hFp_8, .iconDefault-3Gr8d2, .nameCollapsed-34uFWo, .nameDefault-2DI02H {
+    color: #fff;
+}
