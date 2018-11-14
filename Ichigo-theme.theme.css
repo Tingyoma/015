@@ -338,7 +338,10 @@ background: rgb(47, 49, 54);
 
 /* Divider of Chat */
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) div, .theme-dark .divider-3gKybi span {
-    background: #0b0f17;
+    background: transparent;
+}
+.theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI {
+    color: rgba(99, 142, 192, 1);
 }
 .theme-dark .attachButtonDivider-3Glu60 {
     background-color: #123;
