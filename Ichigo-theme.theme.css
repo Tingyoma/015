@@ -194,7 +194,7 @@ background: rgb(47, 49, 54);
     border-color: #123;
 }
 .theme-dark .primary-jw0I4K {
-    color: rgba(255,255,255,1);
+    color: #3a71c1;
 }
 
 /*Chat Box*/
@@ -1277,4 +1277,14 @@ css-editor #bd-customcss-attach-controls button {
 }
 .nameUnreadText-DfkrI4, .nameUnreadVoice-EVo-wI {
     color: #52703e;
+}
+.theme-dark .root-26DmKJ {
+    background-color: rgba(0,0,0,0.0);
+}
+.theme-dark .paymentPane-3bwJ6A {
+	background-color: rgba(0,0,0,0.2);
+	color: #fefefe
+}
+.theme-dark .payment-xT17Mq {
+    background-color: rgba(0,0,0,0.0);
 }
