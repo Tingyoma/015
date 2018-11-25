@@ -1288,3 +1288,31 @@ css-editor #bd-customcss-attach-controls button {
 .theme-dark .payment-xT17Mq {
     background-color: rgba(0,0,0,0.0);
 }
+#bda-qem {
+	background-color: rgba(0,0,0,0.5);
+}
+#bda-qem button.active {
+    background-color: #3a71c1;
+	color: #fefefe;
+}
+#bda-qem button {
+    box-shadow: rgba(0,0,0,0.0);
+}
+.emojiPicker-3m1S-j {
+	background-color: rgba(0,0,0,0.5);
+}
+.search-bar.search-bar-light {
+	background-color: rgba(0,0,0,0.5);
+}
+.theme-dark .emojiPicker-3m1S-j .category-2U57w6 {
+    color: #fefefe;
+}
+.emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S {
+	background-color: transparent;
+}
+#bda-qem button:hover {
+    background: #52703e;
+}
+.theme-dark .emojiPicker-3m1S-j .dimmer-3iH-5D, .theme-light .emojiPicker-3m1S-j .dimmer-3iH-5D {
+    background-color: transparent;
+}
