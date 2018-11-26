@@ -1297,6 +1297,7 @@ css-editor #bd-customcss-attach-controls button {
 }
 #bda-qem button {
     box-shadow: transparent;
+	border-left: transparent;
 }
 .emojiPicker-3m1S-j {
 	background-color: rgba(0,0,0,0.5);
