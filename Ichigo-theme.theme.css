@@ -1296,7 +1296,7 @@ css-editor #bd-customcss-attach-controls button {
 	color: #fefefe;
 }
 #bda-qem button {
-    box-shadow: rgba(0,0,0,0.0);
+    box-shadow: transparent;
 }
 .emojiPicker-3m1S-j {
 	background-color: rgba(0,0,0,0.5);
@@ -1314,5 +1314,12 @@ css-editor #bd-customcss-attach-controls button {
     background: #52703e;
 }
 .theme-dark .emojiPicker-3m1S-j .dimmer-3iH-5D, .theme-light .emojiPicker-3m1S-j .dimmer-3iH-5D {
+    background-color: transparent;
+}
+#bda-qem-twitch-container, #bda-qem-favourite-container {
+    background-color: transparent;
+
+}
+#bda-qem-twitch-container, #bda-qem-favourite-container {
     background-color: transparent;
 }
