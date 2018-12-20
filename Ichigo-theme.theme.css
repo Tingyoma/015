@@ -1327,3 +1327,9 @@ css-editor #bd-customcss-attach-controls button {
 .theme-dark .root-1BQpZw {
     background-color: transparent;
 }
+.theme-light .wrapper-2ZbzR9 {
+    background: transparent;
+}
+.theme-dark .action-1lSjCi, .theme-light .action-1lSjCi {
+	background: transparent;
+}
