@@ -1333,3 +1333,6 @@ css-editor #bd-customcss-attach-controls button {
 .theme-dark .action-1lSjCi, .theme-light .action-1lSjCi {
 	background: transparent;
 }
+.theme-dark .search .search-bar {
+    background-color: rgba(0,0,0,.2);
+}
