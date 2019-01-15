@@ -7,7 +7,7 @@
     background: rgba(0,0,0,0.7)!important;
 }
 /* Transparency Level at settings */
-.app .standardSidebarView-3F1I7i {
+.da-app .standardSidebarView-3F1I7i {
     background-color: rgba(0,0,0,0.3);
 }
 /*https://i.imgur.com/XTmCAmj.png*/
@@ -1214,10 +1214,10 @@ css-editor #bd-customcss-attach-controls button {
     color: #7289da;
 }
 /* store stuff */
-.app .applicationStore-1pNvnv, .app .gameLibrary-TTDw4Y {
+.da-app .applicationStore-1pNvnv, .da-app .gameLibrary-TTDw4Y {
     background-color: rgba(0,0,0,0.0);
 }
-.app .headerBar-UHpsPw {
+.da-app .headerBar-UHpsPw {
     background:transparent;
 }
 .theme-dark .distributionApplicationsActions-3D2_kD, .theme-dark .premiumApplicationsHeader-Zmkm5e {
