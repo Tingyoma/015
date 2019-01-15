@@ -1345,3 +1345,35 @@ css-editor #bd-customcss-attach-controls button {
 .theme-dark .header-39GIC8 {
     background-color: transparent;
 }
+.root-3-B5F3 {
+  max-height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.root-3-B5F3::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+.root-3-B5F3::-webkit-scrollbar-thumb {
+  border: 2px solid transparent;
+  border-radius: 4px;
+  cursor: move;
+  background-color: rgba(32,34,37,.6);
+}
+.root-3-B5F3::-webkit-scrollbar-track {
+  border-width: initial;
+  background-color: transparent;
+  border: 2px solid transparent;
+}
+.root-3-B5F3::-webkit-scrollbar-thumb, 
+.root-3-B5F3::-webkit-scrollbar-track {
+  background-clip: padding-box;
+  border-radius: 7.5px;
+  border-style: solid;
+  border-width: 3px;
+  visibility: hidden;
+}
+.root-3-B5F3:hover::-webkit-scrollbar-thumb, 
+.root-3-B5F3:hover::-webkit-scrollbar-track {
+  visibility: visible;
+}
