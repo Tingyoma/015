@@ -1380,3 +1380,6 @@ css-editor #bd-customcss-attach-controls button {
 .root-3-B5F3:hover::-webkit-scrollbar-track {
   visibility: visible;
 }
+.theme-dark .standardSidebarView-3F1I7i {
+	background: transparent;
+}
