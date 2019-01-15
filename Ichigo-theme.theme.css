@@ -1,5 +1,5 @@
 /**BACKGROUND**/
-.appMount-3VJmYg{background:url('https://i.imgur.com/XTmCAmj.png') center/cover no-repeat}
+.appMount-3lHmkl{background:url('https://i.imgur.com/XTmCAmj.png') center/cover no-repeat}
 
 
 /* Transparency level */
@@ -1340,6 +1340,9 @@ css-editor #bd-customcss-attach-controls button {
     background-color: transparent;
 }
 .searchBar-2_Yu-C.searchBarLight-1NxoDG {
+	background-color: transparent;
+}
+.searchBar-2_Yu-C.searchBarLight-1NxoDG .searchBarInner-1_Tg2R {
 	background-color: transparent;
 }
 .theme-dark .header-39GIC8 {
